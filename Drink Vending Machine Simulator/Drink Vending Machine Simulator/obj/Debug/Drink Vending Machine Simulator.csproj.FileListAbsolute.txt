@@ -1,0 +1,27 @@
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe.config
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.mainForm.resources
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.Properties.Resources.resources
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csproj.GenerateResource.Cache
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.pdb
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.exe
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.pdb
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe.config
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.exe
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.pdb
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.pdb
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.mainForm.resources
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.Properties.Resources.resources
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csproj.GenerateResource.Cache
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe.config
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.exe
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.pdb
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.pdb
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csprojResolveAssemblyReference.cache
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.mainForm.resources
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.Properties.Resources.resources
+F:\CCC\INFO 2830\Semester Project\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csproj.GenerateResource.Cache
